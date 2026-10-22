@@ -1,0 +1,4 @@
+interface:
+  display_name: "文献驱动选题"
+  short_description: "输入科研主题，先给 Nature 格式文献、中文摘要与精读重点，再推荐有依据的课题方向"
+  default_prompt: "使用 $literature-driven-ideation，先按 Nature 引用格式列出重要文献，逐篇附中文摘要、精读标记与阅读重点，最后给出 3–5 个有依据和初步实验方案的课题方向。"
